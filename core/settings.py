@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['.vercel.app', '.now.sh', 'dephino.com', 'www.dephino.com']
+ALLOWED_HOSTS = ['.vercel.app', 'zssn.dephino.com']
 
 
 # Application definition
